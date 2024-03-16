@@ -1,5 +1,5 @@
 <h1 align="center">Hello😺 , This is HChouu</h1>
-<h3 align="center">Pie - A girl always smiling</h3>
+
 
 - 🌱 I’m currently learning **Computer Science**
 
