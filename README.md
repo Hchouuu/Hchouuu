@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- ❓❔ Ask me???? **.... Don't ask me anything, thanks :))))**
-
 - 💌 Reach me **chouxinkk@gmail.com**
 
 - 🗣 Quote **"Everything you can imagine is real." ― Pablo Picasso**
